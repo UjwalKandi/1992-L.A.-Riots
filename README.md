@@ -12,7 +12,7 @@ The [1992 Los Angeles riots](https://en.wikipedia.org/wiki/1992_Los_Angeles_riot
 
 <img src="https://cdn.historycollection.com/wp-content/uploads/2017/07/The-skeleton-of-a-burned-car-sits-at-the-intersection-of-Normandie-and-Florence.-LA-Times.png" alt="la riots" width="600" height="400">
 
-![](https://allthatsinteresting.com/wordpress/wp-content/uploads/2016/04/fires-during-the-rodney-king-riots.jpg)
+<img src="https://allthatsinteresting.com/wordpress/wp-content/uploads/2016/04/fires-during-the-rodney-king-riots.jpg" alt="la riots" width="600" height="350">
 
 <img src="https://s3.amazonaws.com/cms.ipressroom.com/173/files/20173/590272c22cfac230660a7617_helicopter/helicopter_069e2426-9d1a-4b7e-bb09-1d9c0d6da668-prv.jpg" alt="la riots" width="600" height="400">
 
